@@ -1,8 +1,8 @@
 name: card_horizontal_swipe
-description: A new Flutter package project.
+description: flutter package for animated swipe cards.
 version: 0.0.1
-author:
-homepage:
+author: Mahmoud Ibrahim <ma7moud.wahdan00@gmail.com>
+homepage: https://github.com/mahmoud0wahdan/card_horizontal_listview_swipe.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
